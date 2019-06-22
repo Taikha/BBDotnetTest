@@ -1,0 +1,14 @@
+F:\Projects\dotnetTest\BookingBossApi\bin\Debug\netcoreapp2.2\BookingBossApi.deps.json
+F:\Projects\dotnetTest\BookingBossApi\bin\Debug\netcoreapp2.2\BookingBossApi.runtimeconfig.json
+F:\Projects\dotnetTest\BookingBossApi\bin\Debug\netcoreapp2.2\BookingBossApi.runtimeconfig.dev.json
+F:\Projects\dotnetTest\BookingBossApi\bin\Debug\netcoreapp2.2\BookingBossApi.dll
+F:\Projects\dotnetTest\BookingBossApi\bin\Debug\netcoreapp2.2\BookingBossApi.pdb
+F:\Projects\dotnetTest\BookingBossApi\obj\Debug\netcoreapp2.2\BookingBossApi.csprojAssemblyReference.cache
+F:\Projects\dotnetTest\BookingBossApi\obj\Debug\netcoreapp2.2\BookingBossApi.csproj.CoreCompileInputs.cache
+F:\Projects\dotnetTest\BookingBossApi\obj\Debug\netcoreapp2.2\BookingBossApi.RazorAssemblyInfo.cache
+F:\Projects\dotnetTest\BookingBossApi\obj\Debug\netcoreapp2.2\BookingBossApi.RazorAssemblyInfo.cs
+F:\Projects\dotnetTest\BookingBossApi\obj\Debug\netcoreapp2.2\BookingBossApi.AssemblyInfoInputs.cache
+F:\Projects\dotnetTest\BookingBossApi\obj\Debug\netcoreapp2.2\BookingBossApi.AssemblyInfo.cs
+F:\Projects\dotnetTest\BookingBossApi\obj\Debug\netcoreapp2.2\BookingBossApi.RazorTargetAssemblyInfo.cache
+F:\Projects\dotnetTest\BookingBossApi\obj\Debug\netcoreapp2.2\BookingBossApi.dll
+F:\Projects\dotnetTest\BookingBossApi\obj\Debug\netcoreapp2.2\BookingBossApi.pdb
