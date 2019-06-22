@@ -13,7 +13,7 @@ Can use Postman to Test the api.
 ### BASIC CRUD operation supported
 
 ##### CREATE new Booking:
-POST     http://localhost:5000/api/Booking
+POST     http://localhost:5050/api/Booking
 
 with following body
 {
@@ -35,17 +35,17 @@ with following body
 }
 
 ##### RETRIEVE all:
-GET     http://localhost:5000/api/Booking
+GET     http://localhost:5050/api/Booking
 
 will list all booking data in the database
 
 ##### RETRIEVE with ID
-GET     http://localhost:5000/api/Booking/5d0e057d74c99238a05e38d7
+GET     http://localhost:5050/api/Booking/5d0e057d74c99238a05e38d7
 
 will list all booking data with ID 5d0e057d74c99238a05e38d7 in the database
 
 ##### UPDATE existing Booking with ID:
-POST    http://localhost:5000/api/Booking/5d0e057d74c99238a05e38d7
+POST    http://localhost:5050/api/Booking/5d0e057d74c99238a05e38d7
 
 with following body
 {
@@ -68,4 +68,4 @@ with following body
 }
 
 ##### DELETE existing Booking with ID:
-DELETE  http://localhost:5000/api/Booking/5d0e057d74c99238a05e38d7
+DELETE  http://localhost:5050/api/Booking/5d0e057d74c99238a05e38d7
