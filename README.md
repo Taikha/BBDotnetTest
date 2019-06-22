@@ -1,7 +1,7 @@
 # BBDotnetTest
 
-Required MongoDb, .net core SDK, Visual Studio Code to run
-just open folder in Visual Studio Code:
+Required MongoDb, .net core SDK, Visual Studio Code to run.
+Just open folder in Visual Studio Code:
     type: dotnet run
 
 WepApi is configured to run on port 5050.
